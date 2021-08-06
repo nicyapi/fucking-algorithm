@@ -11,8 +11,8 @@
 ![](../pictures/souyisou.png)
 
 相关推荐：
-  * [如何运用贪心思想玩跳跃游戏](https://labuladong.gitbook.io/algo/)
-  * [如何寻找最长回文子串](https://labuladong.gitbook.io/algo/)
+  * [如何运用贪心思想玩跳跃游戏](https://labuladong.gitee.io/algo/)
+  * [如何寻找最长回文子串](https://labuladong.gitee.io/algo/)
 
 读完本文，你不仅学会了算法套路，还可以顺便去 LeetCode 上拿下如下题目：
 
@@ -161,7 +161,7 @@ for (int i = 0; i < n; i++)
 
 **＿＿＿＿＿＿＿＿＿＿＿＿＿**
 
-**刷算法，学套路，认准 labuladong，公众号和 [在线电子书](https://labuladong.gitbook.io/algo/) 持续更新最新文章**。
+**刷算法，学套路，认准 labuladong，公众号和 [在线电子书](https://labuladong.gitee.io/algo/) 持续更新最新文章**。
 
 **本小抄即将出版，微信扫码关注公众号，后台回复「小抄」限时免费获取，回复「进群」可进刷题群一起刷题，带你搞定 LeetCode**。
 
@@ -251,6 +251,26 @@ class Solution:
             H += math.ceil(pile / K)
             
         return H
+```
+简洁版本
+```python
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        left = max(sum(piles) // h, 1)
+        right = max(piles)
+        if len(piles) > h:
+            return None
+        while left < right: 
+            mid = (left + right) // 2
+            if self.can_finished(piles, h, mid):
+                right = mid
+            else:
+                left = mid + 1
+        return right
+
+    def can_finished(self, piles, h, k):
+        f = lambda x, k: x // k + (0 if  x % k == 0 else 1 )
+        return sum([f(i, k) for i in piles]) <= h
 ```
 
 
