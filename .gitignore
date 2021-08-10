@@ -1,1 +1,161 @@
-.DS_store
+
+.github/ISSUE_TEMPLATE/----.md
+.github/ISSUE_TEMPLATE/bug_report.md
+.github/ISSUE_TEMPLATE/others.md
+.github/ISSUE_TEMPLATE/wait.md
+contributor.jpg
+dynamic_programming/EditDistance.md
+dynamic_programming/FourKeysKeyboard.md
+pictures/backtrack/nqueens.png
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/bfsvc.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/bootfix.bin
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/AppDelegate.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/AppDelegate.m
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/BGRAVideoFrame.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/CameraCalibration.cpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/CameraCalibration.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/cube.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/DebugHelpers.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/EAGLView.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/EAGLView.m
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/Example_MarkerBasedAR-Info.plist
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/Example_MarkerBasedAR-Prefix.pch
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/GeometryTypes.cpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/GeometryTypes.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/main.m
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/Marker.cpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/Marker.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/MarkerDetector.cpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/MarkerDetector.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/SimpleVisualizationController.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/SimpleVisualizationController.mm
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/TinyLA.cpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/TinyLA.hpp
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/VideoSource.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/VideoSource.mm
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/ViewController.h
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/Example_MarkerBasedAR/ViewController.mm
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/marker.png
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/opencv2.framework/Headers
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/opencv2.framework/opencv2
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/opencv2.framework/Resources
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/Example_MarkerBasedAR/README.md
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/Chapter2_iPhoneAR/screenshot.png
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/explorer.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/helppane.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/hh.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/notepad.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/regedit.exe.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/twain_32.dll.mui
+pictures/Camera Roll/app/src/main/resources/templates/cs-CZ/winhlp32.exe.mui
+pictures/floodfill/扫雷.png
+pictures/floodfill/抠图.jpeg
+pictures/floodfill/抠图.jpg
+pictures/header.jpg
+pictures/LRU/put.jpg
+pictures/LRU算法/1.jpg
+pictures/LRU算法/2.jpg
+pictures/LRU算法/3.jpg
+pictures/LRU算法/4.jpg
+pictures/mergeInterval/1.jpg
+pictures/mergeInterval/2.jpg
+pictures/mergeInterval/3.gif
+pictures/mergeInterval/title.png
+pictures/redis入侵/1.png
+pictures/redis入侵/2.png
+pictures/redis入侵/3.png
+pictures/redis入侵/4.png
+pictures/redis入侵/5.png
+pictures/redis入侵/6.png
+pictures/result.jpg
+pictures/unionfind应用/1.jpg
+pictures/unionfind应用/2.jpg
+pictures/unionfind应用/3.jpg
+pictures/二分查找/1.jpg
+pictures/二分查找/2.jpg
+pictures/二分查找/3.jpg
+pictures/二分查找/4.jpg
+pictures/二分查找/binarySearch1.png
+pictures/二分查找/binarySearch2.png
+pictures/二分查找/poem.png
+pictures/位操作/1.png
+pictures/位操作/title.png
+pictures/前缀和/1.jpg
+pictures/前缀和/title.png
+pictures/单调栈/1.png
+pictures/单调栈/2.png
+pictures/单调栈/3.png
+pictures/单调队列/1.png
+pictures/单调队列/2.png
+pictures/单调队列/3.png
+pictures/博弈问题/1.png
+pictures/博弈问题/2.png
+pictures/博弈问题/3.png
+pictures/博弈问题/4.png
+pictures/双指针/1.png
+pictures/双指针/2.png
+pictures/双指针/3.png
+pictures/双指针/center.png
+pictures/双指针/title.png
+pictures/反转链表/1.jpg
+pictures/反转链表/2.jpg
+pictures/反转链表/3.jpg
+pictures/反转链表/4.jpg
+pictures/反转链表/5.jpg
+pictures/反转链表/6.jpg
+pictures/反转链表/7.jpg
+pictures/回文链表/1.gif
+pictures/回文链表/4.jpg
+pictures/子序列/1.gif
+pictures/子序列/2.gif
+pictures/子集/1.jpg
+pictures/子集/2.jpg
+pictures/子集/3.jpg
+pictures/字符串乘法/1.jpg
+pictures/字符串乘法/2.jpg
+pictures/字符串乘法/3.jpg
+pictures/字符串乘法/4.gif
+pictures/字符串乘法/6.jpg
+pictures/字符串乘法/title.png
+pictures/座位调度/1.jpg
+pictures/座位调度/2.jpg
+pictures/座位调度/3.jpg
+pictures/座位调度/4.jpg
+pictures/座位调度/5.jpg
+pictures/座位调度/6.jpg
+pictures/座位调度/7.jpg
+pictures/扔鸡蛋/2.jpg
+pictures/扔鸡蛋/dp.png
+pictures/最优子结构/1.jpg
+pictures/最长回文子序列/1.jpg
+pictures/最长回文子序列/2.jpg
+pictures/最长回文子序列/3.jpg
+pictures/最长回文子序列/4.jpg
+pictures/最长回文子序列/5.jpg
+pictures/最长递增子序列/1.jpeg
+pictures/最长递增子序列/2.jpeg
+pictures/最长递增子序列/3.jpeg
+pictures/最长递增子序列/gif1.gif
+pictures/最长递增子序列/gif2.gif
+pictures/最长递增子序列/poker1.jpeg
+pictures/最长递增子序列/poker2.jpeg
+pictures/最长递增子序列/poker3.jpeg
+pictures/最长递增子序列/poker4.jpeg
+pictures/洗牌算法/1.png
+pictures/洗牌算法/2.png
+pictures/洗牌算法/3.png
+pictures/洗牌算法/4.png
+pictures/洗牌算法/5.jpg
+pictures/洗牌算法/6.png
+pictures/缺失元素/1.jpg
+pictures/缺失元素/2.jpg
+pictures/缺失元素/3.jpg
+pictures/缺失元素/title.png
+pictures/缺失元素/xor.png
+pictures/设计Twitter/design.png
+pictures/设计Twitter/merge.gif
+pictures/设计Twitter/tweet.jpg
+pictures/设计Twitter/user.jpg
+README.txt
+starHistory.jpg
+SUMMARY.md
